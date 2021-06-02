@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hi, I’m SUBIN, Welcome to my GitHub Profile
+- **📚 CA Student**
+- **🌱 Exploring and Developing Telegram Bots**
+- **🤔 I’m looking for help with Python**
 
-<!--
-**subinps/subinps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Social Profiles
+<p align="center">
+<a href="https://www.instagram.com/subin_p_s_"><img alt="Instagram" src="https://img.shields.io/badge/subin_p_s-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/subinps"><img alt="Telegram" src="https://img.shields.io/badge/subinps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=subinps&theme=highcontrast" align="center">
+</p>
