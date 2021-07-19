@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m SUBIN, Welcome to my GitHub Profile
 - **📚 CA Student**
-- **🌱 Exploring Telegram**
 
 # My Social Profiles
 <p align="center">
